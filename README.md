@@ -4,9 +4,11 @@
 
 A breathtaking, single-file HTML experience featuring a 5-step deployment wizard with LangGraph-style execution, real Google Drive persistence support, and a ready-to-deploy backend proxy.
 
-## Live Experience
+## 🚀 Live Demo
 
-Open `index.html` directly in any modern browser (Chrome, Arc, Safari, Firefox).
+**https://kwizzlesurp10-ctrl.github.io/teamofagents**
+
+Open directly in any modern browser.
 
 ## Key Features
 
@@ -33,11 +35,10 @@ Open `index.html` directly in any modern browser (Chrome, Arc, Safari, Firefox).
 
 ## Quick Start
 
-1. Clone or download this repo
-2. Open `index.html`
-3. Run through the wizard
-4. In Step 5, click **Create & Upload Real File via Backend Proxy**
-5. Deploy the included proxy function for actual file creation in Google Drive
+1. Open the live demo or `index.html`
+2. Run through the wizard
+3. In Step 5, click **Create & Upload Real File via Backend Proxy**
+4. Deploy the included proxy function for actual file creation in Google Drive
 
 ## Backend Proxy (Production)
 
@@ -59,6 +60,11 @@ The modal contains a complete, production-ready Vercel Edge Function that:
 - Pure HTML5, Tailwind CSS (via CDN), Vanilla JavaScript
 - No frameworks, no build step
 - Designed for easy extension to real LangGraph backend
+
+## Deployment Options
+
+- **GitHub Pages** (recommended for instant free hosting)
+- **Vercel** (via included `vercel.json`)
 
 ## Repository
 
